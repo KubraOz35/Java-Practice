@@ -23,7 +23,7 @@ public class RepeatedCharacterPrint {
                 }
             }
         }
-/*
+
         String s="Java is easy";
 
         String arr[]=s.replaceAll(" ","").split("");
@@ -43,7 +43,6 @@ public class RepeatedCharacterPrint {
         String brr[]={ortak};
         System.out.println(Arrays.toString(brr));//arraye koydum ortak elementleri
 
-*/
 
 
 
